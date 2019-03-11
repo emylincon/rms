@@ -1,6 +1,4 @@
-# rm_scheduer.py: Rate Monotonic Scheduler
-# 11/28/2003
-# Jiwon Hahn
+
 from functools import reduce
 from sys import *
 
